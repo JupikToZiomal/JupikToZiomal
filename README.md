@@ -1,4 +1,4 @@
-<h1>Junior Front-End Develompment Enjoyer</h1>
+<h1>Front-End Develompment Enjoyer</h1>
 <!--
 **JupikToZiomal/JupikToZiomal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
