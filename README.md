@@ -1,4 +1,4 @@
-<h1> Hello, I'm Jupiczeek. I'm programming 4fun.</h1>
+<h1>Junior Front-End Develompment Enjoyer</h1>
 <!--
 **JupikToZiomal/JupikToZiomal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
